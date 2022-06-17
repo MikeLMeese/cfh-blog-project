@@ -1,1 +1,1 @@
-web: mvn clean heroku:deploy
+web: mvn spring-boot:run
